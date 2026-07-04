@@ -1,0 +1,11 @@
+# datasets.yaml  (실제 압축 푼 경로에 맞춰 수정)
+RUOD_train: data/RUOD/train/images/*.jpg
+DUO: data/DUO/train/images/*.jpg
+Brackish: data/Brackish/train/images/*.jpg
+SUODAC_type1: data/S-UODAC2020/type1/*.jpg
+SUODAC_type2: data/S-UODAC2020/type2/*.jpg
+SUODAC_type3: data/S-UODAC2020/type3/*.jpg
+SUODAC_type4: data/S-UODAC2020/type4/*.jpg
+SUODAC_type5: data/S-UODAC2020/type5/*.jpg
+SUODAC_type6: data/S-UODAC2020/type6/*.jpg
+SUODAC_type7: data/S-UODAC2020/type7/*.jpg

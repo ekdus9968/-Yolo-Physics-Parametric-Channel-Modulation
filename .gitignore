@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+venv_watermono/
+.venv/
+
+# 데이터셋 (용량 큼)
+data/
+depth_cache/
+
+# 학습 결과
+runs/
+*.pt
+!yolov8m.pt
+
+# WaterMono
+WaterMono/venv_watermono/
+
+# IDE
+.vscode/
+.idea/
+
+# 임시 파일
+*.tmp
+*_tmp/
+_*_tmp/
+.DS_Store
+
+# 로그
+logs/
+*.log
