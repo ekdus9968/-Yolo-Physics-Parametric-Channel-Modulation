@@ -13,6 +13,7 @@ depth_cache/
 runs/
 *.pt
 !yolov8m.pt
+results/
 
 # WaterMono
 WaterMono/venv_watermono/
@@ -30,3 +31,6 @@ _*_tmp/
 # 로그
 logs/
 *.log
+
+*.png
+*.json
